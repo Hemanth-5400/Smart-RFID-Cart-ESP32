@@ -1,4 +1,4 @@
-# Smart-RFID-Cart-ESP32
+# Smart shopping-RFID-Cart-ESP32
 #include <WiFi.h>
 #include <WebSocketsServer.h>
 #include <MFRC522.h>
